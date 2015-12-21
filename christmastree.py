@@ -112,13 +112,13 @@ class BlinkStreamer(TwythonStreamer):
 				#set the output of pin 22 to be True
 				GPIO.output(22, True)
 				#sleep for 1 second
-        time.sleep(2)
-        #let the user know what we're doing
-        print "Blue off..."
-        #set the output of pin 22 to be False
-        GPIO.output(22, False)
-        #sleep for 1 second
-        time.sleep(0.5)
+				time.sleep(2)
+				#let the user know what we're doing
+				print "Blue off..."
+				#set the output of pin 22 to be False
+				GPIO.output(22, False)
+				#sleep for 1 second
+				time.sleep(0.5)
 			elif 'sleigh' in data['text'] or 'Sleigh' in data['text']:
 				###########################
 				# print it out prettily
@@ -145,16 +145,16 @@ class BlinkStreamer(TwythonStreamer):
 				print 
 				#let the user know what we're doing
 				print "Red on..."
-        #set the output of pin 25 to be True
-        GPIO.output(25, True)
-        #sleep for 1 second
-        time.sleep(2)
-        #let the user know what we're doing
-        print "Red off..."
-        #set the output of pin 25 to be False
-        GPIO.output(25, False)
-        #sleep for 1 second
-        time.sleep(0.5)	
+				#set the output of pin 25 to be True
+				GPIO.output(25, True)
+				#sleep for 1 second
+				time.sleep(2)
+				#let the user know what we're doing
+				print "Red off..."
+				#set the output of pin 25 to be False
+				GPIO.output(25, False)
+				#sleep for 1 second
+				time.sleep(0.5)	
 			elif 'whitechristmas' in data['text'] or 'WhiteChristmas' in data['text']:
 				###########################
 				# print it out prettily
@@ -204,12 +204,12 @@ class BlinkStreamer(TwythonStreamer):
 				GPIO.output(5, True)
 				#sleep for 1 second
 				time.sleep(2)
-	      #let the user know what we're doing
-	      print "Orange off..."
-		    #set the output of pin 5 to be False
-		    GPIO.output(5, False)
-		    #sleep for 1 second
-		    time.sleep(0.5)    
+				#let the user know what we're doing
+				print "Orange off..."
+				#set the output of pin 5 to be False
+				GPIO.output(5, False)
+				#sleep for 1 second
+				time.sleep(0.5)    
 			else:	
 				print "nothing"
 
