@@ -41,6 +41,9 @@ Take each LED from the breadboard circuit and connect each leg to a longer wire 
 
 We didn't have very long jumper wires so joined together two shorter (male-to-female) wires).  We also wrapped the jumper wires in green tape so that they weren't so obtrusive on the tree, but you might like to see your wires (a tech alternative to tinsel).
 
+![alt-text](http://glasgow.coderdojo.co/christmastree/wires.jpg "making longer jumper wires")
+
+
 ### Remix the Tree
 Remember, you don't have to stick with our selection - edit christmastree.py to make your tree light up for your chosen words!
 
