@@ -48,7 +48,8 @@ We didn't have very long jumper wires so joined together two shorter (male-to-fe
 Remember, you don't have to stick with our selection - edit christmastree.py to make your tree light up for your chosen words!
 
 Here's a short video of the tree in action:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5UDPO4-kUGY" frameborder="0" allowfullscreen></iframe>
+[![Twitter tree video](http://img.youtube.com/vi/5UDPO4-kUGY/0.jpg)](http://www.youtube.com/watch?v=5UDPO4-kUGY)
+
 
 
 
