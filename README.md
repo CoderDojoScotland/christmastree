@@ -5,7 +5,7 @@ A Twitter-responsive Christmas Tree (different coloured LEDs light up depending 
 Claire Quigley
 
 ##Licence
-This work is licensed under a ![http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License]
+This work is licensed under a [http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0) License]
 
 ## Equipment
 * Raspberry Pi
