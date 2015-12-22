@@ -19,7 +19,7 @@ This work is licensed under an [Attribution-NonCommercial-ShareAlike 3.0 Unporte
 ###Twitter stream
 
 The setup of a Twitter connection (using Twython) on your Raspberry Pi is based on this tutorial by James Bruce: http://www.makeuseof.com/tag/how-to-build-a-raspberry-pi-twitter-bot/  
-(although this particular program doesn't need to post to a Twitter account, it just reads the Twitter stream).
+(although our Christmas Tree program doesn't need to post to a Twitter account, it just reads the Twitter stream).
 
 ### Christmas LEDs
 
