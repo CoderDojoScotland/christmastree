@@ -31,7 +31,7 @@ Download christmastree.py to your Pi.  To run the program, open an LXTerminal, n
 
 Once you've got your LEDs working with your program you're ready to put the lights on your tree (or this would be a program called "christmasbreadboard.py" ;-) ). T
 
-Take each LED from the breadboard circuit and connect each leg to a longer wire (so that it can reach your tree) like this: ![alt-text](http://glasgow.coderdojo.co/christmastree/onetreewire_bb.png) "longer wire attached to LED"
+Take each LED from the breadboard circuit and connect each leg to a longer wire (so that it can reach your tree) like this: ![alt-text](http://glasgow.coderdojo.co/christmastree/onetreewire_bb.png "longer wire attached to LED")
 (We didn't have very long jumper wires so joined together two shorter (male-to-female) wires).
 
 Remember, you don't have to stick with our selection - edit christmastree.py to make your tree light up for your chosen words!
