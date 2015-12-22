@@ -10,7 +10,7 @@ This work is licensed under an [Attribution-NonCommercial-ShareAlike 3.0 Unporte
 ## Equipment
 * Raspberry Pi
 * Breadboard
-* 330 Ohm resistors
+* 330&#8486 resistors
 * White LEDs
 * Coloured cellophane (e.g. from chocolate wrappers)
 * Green electrical tape
